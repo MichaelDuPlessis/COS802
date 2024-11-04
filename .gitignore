@@ -1,2 +1,4 @@
 .venv/
 SemRel2024/
+checkpoints/
+.DS_Store
