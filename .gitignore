@@ -2,3 +2,7 @@
 SemRel2024/
 checkpoints/
 .DS_Store
+images/
+*.mov
+*.mp4
+*.pptx
